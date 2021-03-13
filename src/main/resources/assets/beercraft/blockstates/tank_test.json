@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=east,tank_level_l=0": { "model": "beercraft:block/tank_empty", "y": 90 },
+    "facing=east,tank_level_l=1": { "model": "beercraft:block/tank_full_10", "y": 90 },
+    "facing=east,tank_level_l=2": { "model": "beercraft:block/tank_full_20", "y": 90 },
+    "facing=east,tank_level_l=3": { "model": "beercraft:block/tank_full_30", "y": 90 },
+    "facing=east,tank_level_l=4": { "model": "beercraft:block/tank_full_40", "y": 90 },
+    "facing=east,tank_level_l=5": { "model": "beercraft:block/tank_full_50", "y": 90 },
+    "facing=east,tank_level_l=6": { "model": "beercraft:block/tank_full_60", "y": 90 },
+    "facing=east,tank_level_l=7": { "model": "beercraft:block/tank_full_70", "y": 90 },
+    "facing=east,tank_level_l=8": { "model": "beercraft:block/tank_full_80", "y": 90 },
+    "facing=east,tank_level_l=9": { "model": "beercraft:block/tank_full_90", "y": 90 },
+    "facing=east,tank_level_l=10": { "model": "beercraft:block/tank_full", "y": 90 },
+
+    "facing=south,tank_level_l=0": { "model": "beercraft:block/tank_empty", "y": 180 },
+    "facing=south,tank_level_l=1": { "model": "beercraft:block/tank_full_10", "y": 180 },
+    "facing=south,tank_level_l=2": { "model": "beercraft:block/tank_full_20", "y": 180 },
+    "facing=south,tank_level_l=3": { "model": "beercraft:block/tank_full_30", "y": 180 },
+    "facing=south,tank_level_l=4": { "model": "beercraft:block/tank_full_40", "y": 180 },
+    "facing=south,tank_level_l=5": { "model": "beercraft:block/tank_full_50", "y": 180 },
+    "facing=south,tank_level_l=6": { "model": "beercraft:block/tank_full_60", "y": 180 },
+    "facing=south,tank_level_l=7": { "model": "beercraft:block/tank_full_70", "y": 180 },
+    "facing=south,tank_level_l=8": { "model": "beercraft:block/tank_full_80", "y": 180 },
+    "facing=south,tank_level_l=9": { "model": "beercraft:block/tank_full_90", "y": 180 },
+    "facing=south,tank_level_l=10": { "model": "beercraft:block/tank_full", "y": 180 },
+
+    "facing=north,tank_level_l=0": { "model": "beercraft:block/tank_empty"},
+    "facing=north,tank_level_l=1": { "model": "beercraft:block/tank_full_10"},
+    "facing=north,tank_level_l=2": { "model": "beercraft:block/tank_full_20"},
+    "facing=north,tank_level_l=3": { "model": "beercraft:block/tank_full_30"},
+    "facing=north,tank_level_l=4": { "model": "beercraft:block/tank_full_40"},
+    "facing=north,tank_level_l=5": { "model": "beercraft:block/tank_full_50"},
+    "facing=north,tank_level_l=6": { "model": "beercraft:block/tank_full_60"},
+    "facing=north,tank_level_l=7": { "model": "beercraft:block/tank_full_70"},
+    "facing=north,tank_level_l=8": { "model": "beercraft:block/tank_full_80"},
+    "facing=north,tank_level_l=9": { "model": "beercraft:block/tank_full_90"},
+    "facing=north,tank_level_l=10": { "model": "beercraft:block/tank_full" },
+
+    "facing=west,tank_level_l=0": { "model": "beercraft:block/tank_empty", "y": 270 },
+    "facing=west,tank_level_l=1": { "model": "beercraft:block/tank_full_10", "y": 270 },
+    "facing=west,tank_level_l=2": { "model": "beercraft:block/tank_full_20", "y": 270 },
+    "facing=west,tank_level_l=3": { "model": "beercraft:block/tank_full_30", "y": 270 },
+    "facing=west,tank_level_l=4": { "model": "beercraft:block/tank_full_40", "y": 270 },
+    "facing=west,tank_level_l=5": { "model": "beercraft:block/tank_full_50", "y": 270 },
+    "facing=west,tank_level_l=6": { "model": "beercraft:block/tank_full_60", "y": 270 },
+    "facing=west,tank_level_l=7": { "model": "beercraft:block/tank_full_70", "y": 270 },
+    "facing=west,tank_level_l=8": { "model": "beercraft:block/tank_full_80", "y": 270 },
+    "facing=west,tank_level_l=9": { "model": "beercraft:block/tank_full_90", "y": 270 },
+    "facing=west,tank_level_l=10": { "model": "beercraft:block/tank_full", "y": 270 }
+
+  }
+}

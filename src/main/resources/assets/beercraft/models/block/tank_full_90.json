@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "beercraft:block/machines/testtank/testtank_side",
+    "front": "beercraft:block/machines/testtank/testtank_front_left_90",
+    "side": "beercraft:block/machines/testtank/testtank_side"
+  }
+}
