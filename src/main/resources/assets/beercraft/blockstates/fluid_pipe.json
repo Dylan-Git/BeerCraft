@@ -1,0 +1,196 @@
+{
+	"variants": {
+		"neighbours=0": {
+			"model": "beercraft:block/pipes/fluid_pipe"
+		},
+		"neighbours=1": {
+			"model": "beercraft:block/pipes/fluid_pipe_"
+		},
+		"neighbours=2": {
+			"model": "beercraft:block/pipes/fluid_pipe_"
+		},
+		"neighbours=3": {
+			"model": "beercraft:block/pipes/fluid_pipe_"
+		},
+		"neighbours=4": {
+			"model": "beercraft:block/pipes/fluid_pipe_north"
+		},
+		"neighbours=5": {
+			"model": "beercraft:block/pipes/fluid_pipe_north"
+		},
+		"neighbours=6": {
+			"model": "beercraft:block/pipes/fluid_pipe_north"
+		},
+		"neighbours=7": {
+			"model": "beercraft:block/pipes/fluid_pipe_north"
+		},
+		"neighbours=8": {
+			"model": "beercraft:block/pipes/fluid_pipe_south"
+		},
+		"neighbours=9": {
+			"model": "beercraft:block/pipes/fluid_pipe_south"
+		},
+		"neighbours=10": {
+			"model": "beercraft:block/pipes/fluid_pipe_south"
+		},
+		"neighbours=11": {
+			"model": "beercraft:block/pipes/fluid_pipe_south"
+		},
+		"neighbours=12": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south"
+		},
+		"neighbours=13": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south"
+		},
+		"neighbours=14": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south"
+		},
+		"neighbours=15": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south"
+		},
+		"neighbours=16": {
+			"model": "beercraft:block/pipes/fluid_pipe_west"
+		},
+		"neighbours=17": {
+			"model": "beercraft:block/pipes/fluid_pipe_west"
+		},
+		"neighbours=18": {
+			"model": "beercraft:block/pipes/fluid_pipe_west"
+		},
+		"neighbours=19": {
+			"model": "beercraft:block/pipes/fluid_pipe_west"
+		},
+		"neighbours=20": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_west"
+		},
+		"neighbours=21": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_west"
+		},
+		"neighbours=22": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_west"
+		},
+		"neighbours=23": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_west"
+		},
+		"neighbours=24": {
+			"model": "beercraft:block/pipes/fluid_pipe_south_west"
+		},
+		"neighbours=25": {
+			"model": "beercraft:block/pipes/fluid_pipe_south_west"
+		},
+		"neighbours=26": {
+			"model": "beercraft:block/pipes/fluid_pipe_south_west"
+		},
+		"neighbours=27": {
+			"model": "beercraft:block/pipes/fluid_pipe_south_west"
+		},
+		"neighbours=28": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south_west"
+		},
+		"neighbours=29": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south_west"
+		},
+		"neighbours=30": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south_west"
+		},
+		"neighbours=31": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_south_west"
+		},
+		"neighbours=32": {
+			"model": "beercraft:block/pipes/fluid_pipe_east"
+		},
+		"neighbours=33": {
+			"model": "beercraft:block/pipes/fluid_pipe_east"
+		},
+		"neighbours=34": {
+			"model": "beercraft:block/pipes/fluid_pipe_east"
+		},
+		"neighbours=35": {
+			"model": "beercraft:block/pipes/fluid_pipe_east"
+		},
+		"neighbours=36": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east"
+		},
+		"neighbours=37": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east"
+		},
+		"neighbours=38": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east"
+		},
+		"neighbours=39": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east"
+		},
+		"neighbours=40": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south"
+		},
+		"neighbours=41": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south"
+		},
+		"neighbours=42": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south"
+		},
+		"neighbours=43": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south"
+		},
+		"neighbours=44": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south"
+		},
+		"neighbours=45": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south"
+		},
+		"neighbours=46": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south"
+		},
+		"neighbours=47": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south"
+		},
+		"neighbours=48": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_west"
+		},
+		"neighbours=49": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_west"
+		},
+		"neighbours=50": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_west"
+		},
+		"neighbours=51": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_west"
+		},
+		"neighbours=52": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_west"
+		},
+		"neighbours=53": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_west"
+		},
+		"neighbours=54": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_west"
+		},
+		"neighbours=55": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_west"
+		},
+		"neighbours=56": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south_west"
+		},
+		"neighbours=57": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south_west"
+		},
+		"neighbours=58": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south_west"
+		},
+		"neighbours=59": {
+			"model": "beercraft:block/pipes/fluid_pipe_east_south_west"
+		},
+		"neighbours=60": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south_west"
+		},
+		"neighbours=61": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south_west"
+		},
+		"neighbours=62": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south_west"
+		},
+		"neighbours=63": {
+			"model": "beercraft:block/pipes/fluid_pipe_north_east_south_west"
+		}
+	}
+}

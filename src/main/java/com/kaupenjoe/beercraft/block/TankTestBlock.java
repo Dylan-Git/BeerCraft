@@ -27,6 +27,7 @@ import net.minecraft.util.math.BlockRayTraceResult;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.TranslationTextComponent;
 import net.minecraft.world.IBlockReader;
+import net.minecraft.world.IWorldReader;
 import net.minecraft.world.World;
 import net.minecraftforge.fluids.FluidStack;
 import net.minecraftforge.fluids.capability.CapabilityFluidHandler;
@@ -154,6 +155,18 @@ public class TankTestBlock extends Block
         }
 
         return null;
+    }
+
+
+    @Override
+    public void onNeighborChange(BlockState state, IWorldReader world, BlockPos pos, BlockPos neighbor)
+    {
+        if(world.isRemote())
+        {
+            return;
+        }
+
+        redrawTexture((World)world, pos);
     }
 
     @Override

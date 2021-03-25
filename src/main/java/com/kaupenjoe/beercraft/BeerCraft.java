@@ -12,6 +12,7 @@ import com.kaupenjoe.beercraft.setup.IProxy;
 import com.kaupenjoe.beercraft.setup.ServerProxy;
 import com.kaupenjoe.beercraft.tileentity.ModTileEntities;
 import com.kaupenjoe.beercraft.util.Config;
+import com.kaupenjoe.beercraft.util.JsonBlockstateGenerator;
 import com.kaupenjoe.beercraft.util.Registration;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -67,6 +68,8 @@ public class BeerCraft
         MinecraftForge.EVENT_BUS.register(this);
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        // JsonBlockstateGenerator.CreateJSON();
     }
 
     private void registerConfigs()

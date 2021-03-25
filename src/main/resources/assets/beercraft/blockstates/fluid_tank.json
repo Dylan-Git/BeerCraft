@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "beercraft:block/fluid_tank" }
+  }
+}

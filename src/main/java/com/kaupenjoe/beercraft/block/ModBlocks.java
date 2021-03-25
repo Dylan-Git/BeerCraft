@@ -7,6 +7,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraftforge.common.ToolType;
+import net.minecraftforge.fluids.capability.templates.FluidTank;
 import net.minecraftforge.fml.RegistryObject;
 
 import java.util.function.Supplier;
@@ -15,6 +16,13 @@ public class ModBlocks
 {
     public static RegistryObject<Block> TANK_TEST = register("tank_test",
             () -> new TankTestBlock(AbstractBlock.Properties.from(Blocks.STONE)));
+
+    public static RegistryObject<Block> TANK_BLOCK = register("fluid_tank",
+            () -> new TankBlock(AbstractBlock.Properties.from(Blocks.STONE)));
+
+    public static RegistryObject<Block> FLUID_PIPE = register("fluid_pipe",
+            () -> new FluidPipe(AbstractBlock.Properties.from(Blocks.STONE)));
+
 
     public static void register()
     {

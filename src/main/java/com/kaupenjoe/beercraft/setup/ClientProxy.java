@@ -1,6 +1,7 @@
 package com.kaupenjoe.beercraft.setup;
 
 import com.kaupenjoe.beercraft.BeerCraft;
+import com.kaupenjoe.beercraft.block.ModBlocks;
 import com.kaupenjoe.beercraft.client.gui.ModGUIs;
 import com.kaupenjoe.beercraft.client.gui.TankScreen;
 import net.minecraft.client.Minecraft;
@@ -18,6 +19,9 @@ public class ClientProxy implements IProxy
     @Override
     public void init()
     {
+        RenderTypeLookup.setRenderLayer(ModBlocks.TANK_BLOCK.get(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(ModBlocks.FLUID_PIPE.get(), RenderType.getCutout());
+
         ScreenManager.registerFactory(ModGUIs.TANK_CONTAINER.get(), TankScreen::new);
     }
 
